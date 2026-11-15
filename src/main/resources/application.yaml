@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: providers-registry
+
+providers-registry:
+  providers-file: providers.json
